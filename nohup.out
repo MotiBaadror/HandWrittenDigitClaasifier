@@ -1,0 +1,314 @@
+[I 14:15:20.227 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:15:20.227 NotebookApp] The port 8889 is already in use, trying another port.
+[I 14:15:20.234 NotebookApp] Serving notebooks from local directory: /home/baadror/Desktop/suraj Prakash
+[I 14:15:20.234 NotebookApp] 0 active kernels 
+[I 14:15:20.234 NotebookApp] The Jupyter Notebook is running at: http://localhost:8890/?token=e129d3ba4942ed5fd734f3ea7b32b1611c5adea868dbebca
+[I 14:15:20.234 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:15:20.236 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=e129d3ba4942ed5fd734f3ea7b32b1611c5adea868dbebca
+[I 14:15:20.777 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 14:15:41.125 NotebookApp] Notebook problem_1.ipynb is not trusted
+[I 14:15:42.226 NotebookApp] Kernel started: 1539ccb8-28a0-4011-bb32-b57742551b06
+[W 14:15:42.316 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180408141519 (127.0.0.1) 50.05ms referer=http://localhost:8890/notebooks/problem_1.ipynb
+[W 14:15:42.709 NotebookApp] Notebook problem_2.ipynb is not trusted
+[W 14:15:42.815 NotebookApp] Notebook problem_3.ipynb is not trusted
+[I 14:15:44.034 NotebookApp] Adapting to protocol v5.1 for kernel 1539ccb8-28a0-4011-bb32-b57742551b06
+[I 14:15:44.054 NotebookApp] Kernel started: ec8cf5c4-f9f4-4fae-aaf1-02b78cd0a950
+[I 14:15:44.507 NotebookApp] Kernel started: 9a6a4015-91b1-49a9-ae5e-170f8cafaf47
+[I 14:15:45.211 NotebookApp] Adapting to protocol v5.1 for kernel ec8cf5c4-f9f4-4fae-aaf1-02b78cd0a950
+[I 14:15:45.596 NotebookApp] Adapting to protocol v5.1 for kernel 9a6a4015-91b1-49a9-ae5e-170f8cafaf47
+[W 14:15:47.009 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180408141519 (127.0.0.1) 2.46ms referer=http://localhost:8890/notebooks/problem_2.ipynb
+[W 14:15:47.058 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180408141519 (127.0.0.1) 1.34ms referer=http://localhost:8890/notebooks/problem_3.ipynb
+[I 14:17:42.044 NotebookApp] Saving file at /problem_1.ipynb
+[W 14:17:42.045 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 14:17:44.784 NotebookApp] Saving file at /problem_3.ipynb
+[W 14:17:44.784 NotebookApp] Saving untrusted notebook problem_3.ipynb
+[I 14:17:45.529 NotebookApp] Saving file at /problem_2.ipynb
+[W 14:17:45.530 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 14:20:21.239 NotebookApp] Creating new notebook in 
+[W 14:20:22.697 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180408141519 (127.0.0.1) 1.84ms referer=http://localhost:8890/notebooks/Untitled.ipynb?kernel_name=python3
+[I 14:20:22.792 NotebookApp] Kernel started: 3633b30c-de64-4a57-b348-f293e75f5084
+[I 14:20:23.947 NotebookApp] Adapting to protocol v5.1 for kernel 3633b30c-de64-4a57-b348-f293e75f5084
+[I 14:22:23.393 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:25:43.070 NotebookApp] Saving file at /problem_1.ipynb
+[W 14:25:43.070 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 14:26:24.467 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:28:25.048 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:30:26.572 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:53:46.514 NotebookApp] Saving file at /problem_1.ipynb
+[W 14:53:46.515 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 14:54:28.428 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:56:28.421 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:57:48.063 NotebookApp] Saving file at /problem_1.ipynb
+[W 14:57:48.063 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 14:59:11.828 NotebookApp] Creating new notebook in 
+[W 14:59:12.973 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180408141519 (127.0.0.1) 22.67ms referer=http://localhost:8890/notebooks/Untitled1.ipynb?kernel_name=python3
+[I 14:59:13.151 NotebookApp] Kernel started: fdb60ec3-5b7c-4c57-afce-0c2b3b2cfb4b
+[I 14:59:14.443 NotebookApp] Adapting to protocol v5.1 for kernel fdb60ec3-5b7c-4c57-afce-0c2b3b2cfb4b
+[W 15:00:07.060 NotebookApp] 404 GET /favicon.ico (127.0.0.1) 2.02ms referer=None
+[I 15:01:13.666 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:03:13.666 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:05:14.138 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:06:30.335 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:07:14.116 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:09:14.192 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:11:14.094 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:13:14.150 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:15:14.100 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:17:14.117 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:19:14.125 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:21:14.128 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:23:14.784 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:23:49.618 NotebookApp] Saving file at /problem_1.ipynb
+[W 15:23:49.619 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 15:25:14.743 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:25:49.611 NotebookApp] Saving file at /problem_1.ipynb
+[W 15:25:49.612 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 15:27:14.897 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:27:50.368 NotebookApp] Saving file at /problem_1.ipynb
+[W 15:27:50.369 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 15:30:33.253 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:31:16.110 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:32:33.290 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:35:16.736 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:37:16.783 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:39:16.832 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:42:36.691 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:43:17.398 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:44:36.984 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:49:54.832 NotebookApp] Saving file at /problem_1.ipynb
+[W 15:49:54.833 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 15:57:19.542 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:59:19.537 NotebookApp] Saving file at /Untitled1.ipynb
+[I 16:01:19.536 NotebookApp] Saving file at /Untitled1.ipynb
+[I 16:03:19.566 NotebookApp] Saving file at /Untitled1.ipynb
+[I 16:05:20.319 NotebookApp] Saving file at /Untitled1.ipynb
+[I 16:06:39.024 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:18:39.838 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:20:39.830 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:26:39.865 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:28:40.031 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:30:40.121 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:32:40.172 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:34:40.097 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:36:40.714 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:38:41.522 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:40:41.475 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:42:41.504 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:48:42.439 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:51:24.410 NotebookApp] Saving file at /Untitled1.ipynb
+[I 16:52:42.860 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:53:24.706 NotebookApp] Saving file at /Untitled1.ipynb
+[I 16:54:42.851 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:56:42.808 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:58:42.817 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:00:42.811 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:02:42.808 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:04:42.812 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:06:42.812 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:09:27.209 NotebookApp] Saving file at /Untitled1.ipynb
+[I 17:11:27.263 NotebookApp] Saving file at /Untitled1.ipynb
+[I 17:15:27.226 NotebookApp] Saving file at /Untitled1.ipynb
+[I 17:25:28.857 NotebookApp] Saving file at /Untitled1.ipynb
+[I 17:26:44.870 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:28:44.903 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:34:45.658 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:19:31.705 NotebookApp] Saving file at /Untitled1.ipynb
+[I 18:20:48.171 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:22:48.360 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:24:48.861 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:26:48.887 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:28:48.916 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:30:49.780 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:33:35.221 NotebookApp] Saving file at /Untitled1.ipynb
+[I 18:38:50.718 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:40:50.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:42:51.442 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:43:36.408 NotebookApp] Saving file at /Untitled1.ipynb
+[I 18:44:51.592 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:46:51.550 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:48:51.723 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:50:51.621 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:52:51.659 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:54:51.649 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:56:51.622 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:58:51.624 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:02:51.683 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:04:51.690 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:06:52.373 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:08:52.375 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:10:52.374 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:12:52.380 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:14:52.378 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:16:52.377 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:18:52.383 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:20:52.404 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:22:52.380 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:24:53.351 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:26:53.735 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:28:53.729 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:30:53.773 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:32:53.772 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:34:53.774 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:36:53.729 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:38:53.793 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:40:53.762 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:42:54.628 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:43:45.515 NotebookApp] Saving file at /Untitled1.ipynb
+[I 19:44:54.579 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:46:54.620 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:48:54.605 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:50:54.577 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:52:54.578 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:54:54.595 NotebookApp] Saving file at /Untitled.ipynb
+[I 19:58:54.578 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:00:54.577 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:02:54.620 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:04:54.623 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:06:54.583 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:08:54.585 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:10:55.174 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:12:55.209 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:14:55.176 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:16:55.208 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:18:55.211 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:20:55.175 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:22:55.176 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:24:55.177 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:26:55.482 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:28:55.482 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:30:12.661 NotebookApp] Saving file at /problem_1.ipynb
+[W 20:30:12.661 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 20:30:55.476 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:32:13.058 NotebookApp] Saving file at /problem_1.ipynb
+[W 20:32:13.058 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 20:32:55.583 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:34:13.152 NotebookApp] Saving file at /problem_1.ipynb
+[W 20:34:13.152 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 20:34:55.501 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:36:55.483 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:38:55.812 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:40:13.397 NotebookApp] Saving file at /problem_1.ipynb
+[W 20:40:13.398 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 20:42:56.156 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:44:56.130 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:46:14.680 NotebookApp] Saving file at /problem_1.ipynb
+[W 20:46:14.680 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 20:46:56.835 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:48:57.580 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:50:15.358 NotebookApp] Saving file at /problem_1.ipynb
+[W 20:50:15.361 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 20:50:57.562 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:52:57.562 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:54:57.981 NotebookApp] Saving file at /Untitled.ipynb
+[I 20:58:16.634 NotebookApp] Saving file at /problem_1.ipynb
+[W 20:58:16.634 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 20:58:58.276 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:00:16.658 NotebookApp] Saving file at /problem_1.ipynb
+[W 21:00:16.661 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 21:00:58.224 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:02:16.642 NotebookApp] Saving file at /problem_1.ipynb
+[W 21:02:16.644 NotebookApp] Saving untrusted notebook problem_1.ipynb
+[I 21:54:12.516 NotebookApp] Saving file at /problem_2.ipynb
+[W 21:54:12.610 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 21:56:12.494 NotebookApp] Saving file at /problem_2.ipynb
+[W 21:56:12.494 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 21:58:12.510 NotebookApp] Saving file at /problem_2.ipynb
+[W 21:58:12.512 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:00:12.493 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:00:12.494 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:02:12.493 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:02:12.493 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:04:12.495 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:04:12.496 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[W 22:05:56.904 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180408141519 (127.0.0.1) 7.39ms referer=http://localhost:8890/notebooks/problem1.ipynb
+[I 22:05:57.534 NotebookApp] Adapting to protocol v5.1 for kernel 3633b30c-de64-4a57-b348-f293e75f5084
+[I 22:06:01.910 NotebookApp] Saving file at /Untitled1.ipynb
+[I 22:06:13.318 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:06:13.319 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:10:14.250 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:10:14.250 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[W 22:10:38.194 NotebookApp] Notebook problem_22.ipynb is not trusted
+[W 22:10:38.309 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180408141519 (127.0.0.1) 1.67ms referer=http://localhost:8890/notebooks/problem_22.ipynb
+[I 22:10:39.473 NotebookApp] Kernel started: a425fad5-8bc8-4520-84fe-3930ef117dcf
+[I 22:10:48.460 NotebookApp] Adapting to protocol v5.1 for kernel a425fad5-8bc8-4520-84fe-3930ef117dcf
+[I 22:12:39.765 NotebookApp] Saving file at /problem_22.ipynb
+[W 22:12:39.766 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 22:14:14.250 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:14:14.250 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:16:14.242 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:16:14.243 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:18:14.241 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:18:14.242 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:20:14.250 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:20:14.251 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:22:14.258 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:22:14.258 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:24:14.246 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:24:14.247 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:26:14.282 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:26:14.283 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:28:14.323 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:28:14.325 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:30:14.271 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:30:14.273 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:32:14.248 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:32:14.249 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:34:14.274 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:34:14.275 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:36:14.262 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:36:14.263 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:38:14.325 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:38:14.326 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:38:42.522 NotebookApp] Saving file at /problem_22.ipynb
+[W 22:38:42.522 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 22:40:14.328 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:40:14.329 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:40:42.552 NotebookApp] Saving file at /problem_22.ipynb
+[W 22:40:42.553 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 22:42:14.334 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:42:14.334 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:44:14.275 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:44:14.276 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:46:14.260 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:46:14.260 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:48:14.254 NotebookApp] Saving file at /problem_2.ipynb
+[W 22:48:14.255 NotebookApp] Saving untrusted notebook problem_2.ipynb
+[I 22:50:14.863 NotebookApp] Saving file at /problem_2.ipynb
+[I 22:54:14.798 NotebookApp] Saving file at /problem_2.ipynb
+[I 22:56:14.855 NotebookApp] Saving file at /problem_2.ipynb
+[I 22:56:44.268 NotebookApp] Saving file at /problem_22.ipynb
+[W 22:56:44.269 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 22:58:14.816 NotebookApp] Saving file at /problem_2.ipynb
+[I 22:58:44.411 NotebookApp] Saving file at /problem_22.ipynb
+[W 22:58:44.411 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 23:00:45.415 NotebookApp] Saving file at /problem_22.ipynb
+[W 23:00:45.417 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 23:02:14.813 NotebookApp] Saving file at /problem_2.ipynb
+[I 23:04:45.851 NotebookApp] Saving file at /problem_22.ipynb
+[W 23:04:45.852 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 23:06:45.853 NotebookApp] Saving file at /problem_22.ipynb
+[W 23:06:45.854 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 23:08:45.872 NotebookApp] Saving file at /problem_22.ipynb
+[W 23:08:45.873 NotebookApp] Saving untrusted notebook problem_22.ipynb
+[I 23:10:15.691 NotebookApp] Saving file at /problem_2.ipynb
+[I 23:12:16.257 NotebookApp] Saving file at /Problem_2.ipynb
+[I 23:14:34.353 NotebookApp] Saving file at /problem_3.ipynb
+[W 23:14:34.354 NotebookApp] Saving untrusted notebook problem_3.ipynb
+[I 23:16:34.252 NotebookApp] Saving file at /problem_3.ipynb
+[W 23:16:34.253 NotebookApp] Saving untrusted notebook problem_3.ipynb
+[I 23:18:34.250 NotebookApp] Saving file at /problem_3.ipynb
+[W 23:18:34.250 NotebookApp] Saving untrusted notebook problem_3.ipynb
+[I 23:20:34.291 NotebookApp] Saving file at /problem_3.ipynb
+[W 23:20:34.292 NotebookApp] Saving untrusted notebook problem_3.ipynb
+[I 23:22:34.261 NotebookApp] Saving file at /problem_3.ipynb
+[I 23:24:34.291 NotebookApp] Saving file at /problem_3.ipynb
+[I 23:26:34.578 NotebookApp] Saving file at /problem_3.ipynb
+[I 23:30:35.132 NotebookApp] Saving file at /problem_3.ipynb
+[I 23:32:35.126 NotebookApp] Saving file at /problem_3.ipynb
+[I 23:34:36.021 NotebookApp] Saving file at /problem_3.ipynb
+[I 23:36:36.071 NotebookApp] Saving file at /problem_3.ipynb
+[I 23:38:36.425 NotebookApp] Saving file at /problem_3.ipynb
